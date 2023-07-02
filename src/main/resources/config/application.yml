@@ -1,0 +1,10 @@
+server:
+  port: 8085
+
+spring:
+  application:
+    name: recap-new
+  datasource:
+    url: jdbc:postgresql://localhost:5430/postgres
+    username: postgres
+    password: password
